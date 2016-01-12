@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: ec8dd959dbee3624f8c56a9b09369f7b
+timeCreated: 1446528311
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: e_r_idle
+    21300002: e_r_w1
+    21300004: e_r_w2
+    21300006: e_r_w3
+    21300008: e_r_w4
+    21300010: e_l_idle
+    21300012: e_l_w1
+    21300014: e_l_w2
+    21300016: e_l_w3
+    21300018: e_l_w4
+    21300020: e_u_idle
+    21300022: e_u_w1
+    21300024: e_u_w2
+    21300026: e_u_w3
+    21300028: e_u_w4
+    21300030: e_d_idle
+    21300032: e_d_w1
+    21300034: e_d_w2
+    21300036: e_d_w3
+    21300038: e_d_w4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: e_r_idle
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 594
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_r_w1
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 528
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_r_w2
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 463
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_r_w3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 395
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_r_w4
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 326
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_l_idle
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 595
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_l_w1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 529
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_l_w2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 464
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_l_w3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 396
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_l_w4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 327
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_u_idle
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 595
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_u_w1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 529
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_u_w2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 464
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_u_w3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 396
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_u_w4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 327
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_d_idle
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 593
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_d_w1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 527
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_d_w2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 462
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_d_w3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 394
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: e_d_w4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 325
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
