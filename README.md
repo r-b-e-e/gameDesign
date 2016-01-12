@@ -1,5 +1,5 @@
 # Game-Design
-This repository contains all the games created by Rakesh Balan Lingakumar.
+This repository contains all the games created/contributed by Rakesh Balan Lingakumar.
 
 > ### 1. RESCUE MISSION
 <p align="justify">A 2D game in which a player (COP) uses weapons to kill all the terrorists and saves the hostages. The difficulty increases as the game advances to higher levels. The enemies are developed with Artificial Intelligence whose primary target is to kill the cop. The project is designed and developed using Unity3D.</p>
