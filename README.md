@@ -26,7 +26,7 @@ alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a>
 
 
 > ### Tic-Tac-Toe: Board Game
-<p align="justify">Tic-Tac-Toe game was developed using Windows Form Application in Microsoft Visual Studio. The game is played between two players who takes turns and play using mouse. The coding is simple and was developed by considering all the rules of the game. The first player who plays will take the sign “X” and second player takes “O”. Possible outcomes are “X” won, “O” won or “Match Drawn”. The winner is checked for every move made by a player. The game window has only “close” button. The “File” tab has “New Game” and “Exit” features. The “Help” tab has information about the game. Coming to the coding part, the whole code is written in C#.</p>
+<p align="justify">Tic-Tac-Toe game was developed using Windows Form Application in Microsoft Visual Studio. The game is played between two players who takes turns and play using mouse. The coding is simple and was developed by considering all the rules of the game. The first player who plays will take the sign “X” and second player takes “O”. Possible outcomes are “X” won, “O” won or “Match Drawn”. The winner is checked for every move made by a player. The game window has only “close” button. The “File” tab has “New Game” and “Exit” features. The “Help” tab has information about the game. Coming to the coding part, the whole code was written in C#.</p>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
