@@ -7,21 +7,21 @@ This repository contains all the games created/contributed by Rakesh Balan Linga
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Game-Design/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/front.png" target="_blank">
-<img src="https://github.com/rlingaku/Game-Design/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/front.png" 
-alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a><a href="https://github.com/rlingaku/Game-Design/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/BombActivated.png" target="_blank">
-<img src="https://github.com/rlingaku/Game-Design/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/BombActivated.png" 
-alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a><a href="https://github.com/rlingaku/Game-Design/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/BombDeactivated.png" target="_blank">
-<img src="https://github.com/rlingaku/Game-Design/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/BombDeactivated.png" 
-alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a><a href="https://github.com/rlingaku/Game-Design/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/KillTerrorist.png" target="_blank">
-<img src="https://github.com/rlingaku/Game-Design/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/KillTerrorist.png" 
+<a href="https://github.com/r-b-e-e/gameDesign/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/front.png" target="_blank">
+<img src="https://github.com/r-b-e-e/gameDesign/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/front.png" 
+alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a><a href="https://github.com/r-b-e-e/gameDesign/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/BombActivated.png" target="_blank">
+<img src="https://github.com/r-b-e-e/gameDesign/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/BombActivated.png" 
+alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a><a href="https://github.com/r-b-e-e/gameDesign/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/BombDeactivated.png" target="_blank">
+<img src="https://github.com/r-b-e-e/gameDesign/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/BombDeactivated.png" 
+alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a><a href="https://github.com/r-b-e-e/gameDesign/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/KillTerrorist.png" target="_blank">
+<img src="https://github.com/r-b-e-e/gameDesign/blob/master/Game_Rescue-Mission_Unity3D/Screenshot/KillTerrorist.png" 
 alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a>   
 
 
 > ##### [YOUTUBE LINK - GAMEPLAY 1](http://www.youtube.com/watch?feature=player_embedded&v=UWyWQV5Jqao)
 > ##### [YOUTUBE LINK - GAMEPLAY 2](http://www.youtube.com/watch?feature=player_embedded&v=D5-q1Z_vjhw)
 > ##### [YOUTUBE LINK - GAMEPLAY 3](http://www.youtube.com/watch?feature=player_embedded&v=0rc66RlLA8s)
-> ##### [DOWNLOAD .exe](https://github.com/rlingaku/Game-Design/blob/master/Game_Rescue-Mission_Unity3D/exe_file)
+> ##### [DOWNLOAD .exe](https://github.com/r-b-e-e/gameDesign/blob/master/Game_Rescue-Mission_Unity3D/exe_file)
 <br>
 
 > ### Space Fighter: 2D Game
@@ -30,11 +30,11 @@ alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Game-Design/blob/master/Game_SpaceFighter/screenshots/ui.png" target="_blank">
-<img src="https://github.com/rlingaku/Game-Design/blob/master/Game_SpaceFighter/screenshots/ui.png" 
+<a href="https://github.com/r-b-e-e/gameDesign/blob/master/Game_SpaceFighter/screenshots/ui.png" target="_blank">
+<img src="https://github.com/r-b-e-e/gameDesign/blob/master/Game_SpaceFighter/screenshots/ui.png" 
 alt="IMAGE ALT TEXT HERE" width="300" height="280" border="10" /></a>
 
-> ##### [DOWNLOAD .exe](https://github.com/rlingaku/Game-Design/tree/master/Game_SpaceFighter/EXEfile)
+> ##### [DOWNLOAD .exe](https://github.com/r-b-e-e/gameDesign/tree/master/Game_SpaceFighter/EXEfile)
 <br>
 
 
@@ -43,20 +43,20 @@ alt="IMAGE ALT TEXT HERE" width="300" height="280" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Game-Design/blob/master/Game_TicTacToe/screenshots/ui.png" target="_blank">
-<img src="https://github.com/rlingaku/Game-Design/blob/master/Game_TicTacToe/screenshots/ui.png" 
+<a href="https://github.com/r-b-e-e/gameDesign/blob/master/Game_TicTacToe/screenshots/ui.png" target="_blank">
+<img src="https://github.com/r-b-e-e/gameDesign/blob/master/Game_TicTacToe/screenshots/ui.png" 
 alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a>
-<a href="https://github.com/rlingaku/Game-Design/blob/master/Game_TicTacToe/screenshots/O_won.png" target="_blank">
-<img src="https://github.com/rlingaku/Game-Design/blob/master/Game_TicTacToe/screenshots/O_won.png" 
+<a href="https://github.com/r-b-e-e/gameDesign/blob/master/Game_TicTacToe/screenshots/O_won.png" target="_blank">
+<img src="https://github.com/r-b-e-e/gameDesign/blob/master/Game_TicTacToe/screenshots/O_won.png" 
 alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a>
-<a href="https://github.com/rlingaku/Game-Design/blob/master/Game_TicTacToe/screenshots/X_won.png" target="_blank">
-<img src="https://github.com/rlingaku/Game-Design/blob/master/Game_TicTacToe/screenshots/X_won.png" 
+<a href="https://github.com/r-b-e-e/gameDesign/blob/master/Game_TicTacToe/screenshots/X_won.png" target="_blank">
+<img src="https://github.com/r-b-e-e/gameDesign/blob/master/Game_TicTacToe/screenshots/X_won.png" 
 alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a>
-<a href="https://github.com/rlingaku/Game-Design/blob/master/Game_TicTacToe/screenshots/draw.png" target="_blank">
-<img src="https://github.com/rlingaku/Game-Design/blob/master/Game_TicTacToe/screenshots/draw.png" 
+<a href="https://github.com/r-b-e-e/gameDesign/blob/master/Game_TicTacToe/screenshots/draw.png" target="_blank">
+<img src="https://github.com/r-b-e-e/gameDesign/blob/master/Game_TicTacToe/screenshots/draw.png" 
 alt="IMAGE ALT TEXT HERE" width="210" height="130" border="10" /></a>
 
 
-> ##### [DOWNLOAD .exe](https://github.com/rlingaku/Game-Design/tree/master/Game_TicTacToe/EXEfile)
+> ##### [DOWNLOAD .exe](https://github.com/r-b-e-e/gameDesign/tree/master/Game_TicTacToe/EXEfile)
 <br>
 
